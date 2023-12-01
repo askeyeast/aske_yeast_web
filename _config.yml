@@ -1,5 +1,5 @@
 name: ASKE Yeast Group
-url: http://awesome.example.edu
+url: https://askeyeast.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
