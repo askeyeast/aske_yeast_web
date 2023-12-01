@@ -12,7 +12,7 @@ ed:
     image: /img/people/ed.png
 
 alex:
-    display_name: "Dr Alexandar Tam"
+    display_name: "Dr Alexander Tam"
     webpage: "https://alex-tam.github.io/"
     role: faculty
     image: /img/people/alex.png
