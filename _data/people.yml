@@ -17,6 +17,25 @@ alex:
     role: faculty
     image: /img/people/alex.png
 
+campbell:
+    display_name: "Professor Campbell Gourlay"
+    webpage: "https://www.kent.ac.uk/biosciences/people/1095/gourlay-campbell"
+    role: faculty 
+    image: /img/people/campbell.png
+
+
+vlad:
+    display_name: "Professor Vladimir Jiranek"
+    webpage: "https://www.southampton.ac.uk/people/62fstw/professor-vladimir-jiranek"
+    role: faculty 
+    image: /img/people/vlad.png
+
+philippe:
+    display_name: "Dr Philippe Laissue"
+    webpage: "https://www.essex.ac.uk/people/laiss31109/philippe-laissue"
+    role: faculty 
+    image: /img/people/philippe.png
+
 # profx:
 #     display_name: "Professor X"
 #     webpage: "http://en.wikipedia.org/wiki/Professor_X"
@@ -34,15 +53,38 @@ alex:
 
 danny:
     display_name: "Dr Daniel Netherwood"
-    github: wolverine
     image: /img/people/danny.png
     role: postdoc
 
-kaili:
+jen:
+    display_name: "Dr Jennifer Gardner"
+    webpage: "https://researchers.adelaide.edu.au/profile/jennie.gardner"
+    image: /img/people/jen.png
+    role: postdoc
+
+jin:
+    display_name: "Dr Jin Zhang"
+    webpage: "https://www.adelaide.edu.au/directory/jin.zhang01"
+    image: /img/people/jin.png
+    role: postdoc 
+
+kai:
     display_name: "Kai Li"
     webpage: "https://kaili99.netlify.app/"
     role: grad
     image: /img/people/kaili.png
+
+sammy:
+    display_name: "Samantha Skivens"
+    role: grad
+    image: /img/people/sammy.png
+
+tea:
+    display_name: "Tea Knežević"
+    role: grad
+    image: /img/people/tea.png
+
+ 
 
 # grad-b:
 #     display_name: "Graduate Student B With Long Name"
@@ -107,13 +149,13 @@ kaili:
 #     display_name: "Collaborator E"
 #     role: collab
 
-# ugrad-a:
-#     display_name: "Ugrad A"
-#     role: ugrad
+caitlin:
+    display_name: "Caitlin Anchor"
+    role: ugrad
 
-# ugrad-b:
-#     display_name: "Ugrad Student B With Long Name"
-#     role: ugrad
+alexP:
+    display_name: "Alex Provatas"
+    role: ugrad
 
 # ugrad-c:
 #     display_name: "Ugrad C"
