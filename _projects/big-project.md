@@ -5,7 +5,7 @@ description: |
   testing
 
 people:
-  - kaili
+  - kai
   - ben
   - ed
   - alex
